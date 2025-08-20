@@ -1,8 +1,7 @@
 # Weather Web App
 [Visit Website here...](https://weaherwebapp.netlify.app/)
 
-![Screenshot (529)](https://github.com/yusra05/Weather_Web_App/assets/112852251/71586d5f-829f-4392-bff0-0aae0ccdaa2c)
-
+<img width="1919" height="979" alt="Screenshot 2025-08-20 174654" src="https://github.com/user-attachments/assets/42067ed1-ca8c-4dcc-ac51-d32c19102c88" />   
 A user-friendly weather application that provides real-time forecasts and weather information using HTML, CSS, JavaScript, and the OpenWeatherMap API.
 
 ## Features
