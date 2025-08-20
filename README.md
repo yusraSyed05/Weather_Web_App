@@ -30,11 +30,10 @@ To get started with the Weather Web App, follow these steps:
 1. Upon opening the app, you will be prompted to allow location access.
 2. Once location access is granted, the app will display real-time weather information for your current location.
 
-<p align="center"><a href="https://github.com/yusraSyed05/Weather_Web_App">🔝 Back to Top</a></p>
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+<p align="center"><a href="#Weather_Web_App">🔝 Back to Top</a></p>
